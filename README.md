@@ -1,7 +1,6 @@
-![Md. Raju Miah – Software Quality Assurance Engineer](banner.png)
-
 # Hi 👋, I'm Md. Raju Miah
 ### Software Quality Assurance (SQA) Engineer
+![Md. Raju Miah – Software Quality Assurance Engineer](banner.png)
 
 Detail-oriented Software Quality Assurance Engineer with hands-on experience in
 **Manual Testing, API Testing**, and growing expertise in **Automation Testing using Playwright**.
