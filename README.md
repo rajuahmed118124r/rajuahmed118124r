@@ -1,3 +1,5 @@
+![Md. Raju Miah – Software Quality Assurance Engineer](banner.png)
+
 # Hi 👋, I'm Md. Raju Miah
 ### Software Quality Assurance (SQA) Engineer
 
@@ -77,6 +79,8 @@ and API validation. Currently, I am strengthening my automation skills using
 - 🌍 Location: Dhaka, Bangladesh
 - 🔗 LinkedIn: https://www.linkedin.com/in/md-raju-miah-021624258/
 - 🔗 GitHub: https://github.com/rajuahmed118124r
+- 📧 Email: rajuahmed118124@gmail.com
+- 📞 Phone: +8801612271914
 
 ---
 
