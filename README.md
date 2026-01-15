@@ -56,10 +56,13 @@ and API validation. Currently, I am strengthening my automation skills using
 ---
 
 ### 🔸 Automation Testing – Playwright
-- Automated UI test scenarios using Playwright (JavaScript)
+This repository contains a UI automation testing framework developed using Playwright (JavaScript) for an e-commerce application.
+
+✅ Key Responsibilities & Features
+- Automated end-to-end UI test scenarios using Playwright (JavaScript)
 - Implemented locator strategies, assertions, and cross-browser testing
 - Focused on readable and maintainable automation scripts  
-🔗 Repository: 
+🔗 Repository: https://github.com/rajuahmed118124r/evershop-playwright-automation
 
 ---
 
@@ -67,7 +70,7 @@ and API validation. Currently, I am strengthening my automation skills using
 - Tested REST API endpoints
 - Validated request/response formats and status codes
 - Ensured data integrity using Postman  
-🔗 Repository: https://github.com/rajuahmed118124/api-testing-postman
+🔗 Repository: https://github.com/rajuahmed118124r/API_Testing
 
 ---
 
